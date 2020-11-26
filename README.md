@@ -9,11 +9,11 @@
 [![](https://img.shields.io/badge/-DEV-222222?style=flat-square&logo=dev&logoColor=white&link=https://dev.to/andersonfernandes)](https://dev.to/andersonfernandes)
 -->
 
-###  ¯\\\(ツ)/¯
+
 
 <!--
 **Joel-Sousa/Joel-Sousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+###  ¯\\\(ツ)/¯
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
