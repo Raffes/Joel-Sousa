@@ -11,8 +11,9 @@ Atualmente moro no Brasil. 🇧🇷
 <!--
 [![](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/andersonf00)](https://twitter.com/andersonf00)
 [![](https://img.shields.io/badge/-Medium-222222?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@fernandesanderson14)](https://medium.com/@fernandesanderson14)
-[![](https://img.shields.io/badge/-DEV-222222?style=flat-square&logo=dev&logoColor=white&link=https://dev.to/andersonfernandes)](https://dev.to/andersonfernandes)
 -->
+[![](https://img.shields.io/badge/-Portifolio-222222?style=flat-square&logo=dev&logoColor=white&link=https://github.com/Joel-Sousa?tab=repositories)](https://github.com/Joel-Sousa?tab=repositories)
+
 
 
 
