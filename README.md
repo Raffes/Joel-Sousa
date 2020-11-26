@@ -1,7 +1,8 @@
 
 ## Ola! Eu sou Joel :wave:
 
-[![](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joel-sousa-173745179/)](https://www.linkedin.com/in/joel-sousa-173745179/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joel-sousa-173745179/)](https://www.linkedin.com/in/joel-sousa-173745179/)
+
 [![](https://img.shields.io/badge/-Gmail-222222?style=flat-square&logo=gmail&logoColor=white&link=mailto:joelfsousa95@gmail.com)](mailto:joelfsousa95@gmail.com)
 <!--
 [![](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/andersonf00)](https://twitter.com/andersonf00)
