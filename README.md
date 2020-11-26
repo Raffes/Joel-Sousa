@@ -8,7 +8,6 @@
 [![](https://img.shields.io/badge/-Medium-222222?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@fernandesanderson14)](https://medium.com/@fernandesanderson14)
 [![](https://img.shields.io/badge/-DEV-222222?style=flat-square&logo=dev&logoColor=white&link=https://dev.to/andersonfernandes)](https://dev.to/andersonfernandes)
 -->
-:mortar_board: Estudando Sistemas de informação.
 
 ###  ¯\\\(ツ)/¯
 
