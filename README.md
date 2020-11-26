@@ -1,6 +1,8 @@
 
 ## Ola! Eu sou Joel :wave:
 
+Atualmente moro no Brasil. 🇧🇷 
+
 ## Essas são minhas redes:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joel-sousa-173745179/)](https://www.linkedin.com/in/joel-sousa-173745179/)
