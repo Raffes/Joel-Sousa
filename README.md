@@ -14,6 +14,8 @@ Atualmente moro no Brasil. 🇧🇷
 -->
 [![](https://img.shields.io/badge/-Portifolio-222222?style=flat-square&logo=dev&logoColor=white&link=https://github.com/Joel-Sousa?tab=repositories)](https://github.com/Joel-Sousa?tab=repositories)
 
+[![](https://img.shields.io/badge/-Dev-222222?style=flat-square&logo=dev&logoColor=white&link=https://dev.to/joelsousa)](https://dev.to/joelsousa)
+
 
 
 
