@@ -8,17 +8,17 @@
 
 ## Essas são minhas redes:
 
-[<img width="30px" height="30px" align="left" alt="marco | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img width="30px" height="30px" align="left" alt="marco | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" title="Gmail"/>][gmail]
 
-[<img width="30px" height="30px" align="left" alt="marco | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img width="30px" height="30px" align="left" alt="marco | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" title="LikedIn"/>][linkedin]
 
-[<img width="30px" height="30px" align="left" alt="marco | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img width="30px" height="30px" align="left" alt="marco | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" title="FaceBook"/>][facebook]
 
-[<img width="30px" height="30px" align="left" alt="marco | Instagran" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img width="30px" height="30px" align="left" alt="marco | Instagran" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" title="Instagram"/>][instagram]
 
-[<img width="30px" height="30px" align="left" alt="marco | DevTo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />][dev]
+[<img width="30px" height="30px" align="left" alt="marco | DevTo" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" title="Dev"/>][dev]
 
-[<img width="30px" height="30px" align="left" alt="marco | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img width="30px" height="30px" align="left" alt="marco | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" title="Portifolio"/>][github]
 
 [linkedin]: https://www.linkedin.com/in/joel-sousa-173745179/
 [facebook]: https://www.facebook.com/JoelSousa95
