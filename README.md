@@ -32,4 +32,13 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Gmail-222222?style=flat-square&logo=gmail&logoColor=white&link=mailto:joelfsousa95@gmail.com)](mailto:joelfsousa95@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Portifolio-222222?style=flat-square&logo=dev&logoColor=white&link=https://github.com/Joel-Sousa?tab=repositories)](https://github.com/Joel-Sousa?tab=repositories)
 [![Linkedin Badge](https://img.shields.io/badge/-Dev-222222?style=flat-square&logo=dev&logoColor=white&link=https://dev.to/joelsousa)](https://dev.to/joelsousa)
+
+ 💻 Estudando: 
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
+ ![Angular](https://img.shields.io/badge/-Angular-ff0000?style=flat&logoColor=fff&logo=angular)&nbsp;
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logoColor=fff&logo=typescript)&nbsp;
+  ![Node.js](https://img.shields.io/badge/-Node.js-006600?style=flat&logoColor=fff&logo=node.js)&nbsp;
+  ![React](https://img.shields.io/badge/-React-993399?style=flat&logoColor=fff&logo=react)&nbsp;
+   ![TypeScript](https://img.shields.io/badge/-Docker-007ACC?style=flat&logoColor=fff&logo=docker)&nbsp;
+
 -->
